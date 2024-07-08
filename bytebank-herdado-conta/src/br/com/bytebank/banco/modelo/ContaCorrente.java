@@ -1,5 +1,5 @@
 //new ContaCorrente()
-package modelo;
+package br.com.bytebank.banco.modelo;
 
 
 
