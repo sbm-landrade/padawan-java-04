@@ -9,7 +9,7 @@ public class TesteString {
 		String vazio = "    Alura   ";
 		String outroVazio = vazio.trim();
 		
-		System.out.println(vazio.contains("Alu"));
+		System.out.println(vazio.contains(outroVazio));
 		System.out.println(outroVazio);
 		
 		String nome = "Alura";//object literal
